@@ -1,5 +1,5 @@
 <?php
-require_once 'node.php';
+require_once '../node.php';
 
 class linkedList
 {
